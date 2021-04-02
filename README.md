@@ -49,7 +49,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 The final state of the file should be as follows (replacing the "Created by" information with your name):
 ```
 # Exercise-05b-Input-Remap
-Exercise for MSCH-C220, 29 March 2021
+Exercise for MSCH-C220, 2 April 2021
 
 An example of input remapping, saved to a config file, in Godot
 
@@ -60,8 +60,8 @@ Built using Godot 3.2.3
 This project borrows heavily from the [input_mapping Godot Demo Project](https://github.com/godotengine/godot-demo-projects/tree/master/gui/input_mapping)
 
 ## Future Development
-None
+For Future Use of saving key bindings.
 
 ## Created by 
-Jason Francis
+Jalen Slutzky
 ```
